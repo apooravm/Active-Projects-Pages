@@ -26,9 +26,10 @@
 	* Development of Ideas
 
 <img src="./content/Questions1.jpg" width="450" height="250">
+
 <img src="./content/Prac1.jpg" width="550" height="250">
 
-##Question Types
+## Question Types
 
 - **Note, Form, Table, Flow Chart Completion**
 
