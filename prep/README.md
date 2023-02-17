@@ -25,14 +25,15 @@
 	* Purpose of whats being said
 	* Development of Ideas
 
-<img src="./content/Questions1.jpg" width="450" height="250">
 
-<img src="./content/Prac1.jpg" width="550" height="250">
+<img src="./content/Questions1.jpg" width="50%" height="50%">
+
+
+<img src="./content/Prac1.jpg" width="50%" height="50%">
+
 
 ## Question Types
 
 - **Note, Form, Table, Flow Chart Completion**
 
-<img src="./content/q1.jpg" width="400" height="500">
-
-
+<img src="./content/q1.jpg" width="50%" height="50%">
