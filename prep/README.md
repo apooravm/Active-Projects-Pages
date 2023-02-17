@@ -25,15 +25,16 @@
 	* Purpose of whats being said
 	* Development of Ideas
 
+<img src="./content/questions1.jpg" width="80%" height="80%">
 
-<img src="./content/questions1.jpg" width="50%" height="50%">
-
-
-<img src="./content/prac1.jpg" width="50%" height="50%">
-
+<img src="./content/prac1.jpg" width="80%" height="80%">
 
 ## Question Types
 
-- **Note, Form, Table, Flow Chart Completion**
+- **Type 1: Note, Form, Table, Flow Chart Completion**
 
-<img src="./content/q1.jpg" width="50%" height="50%">
+<img src="./content/q1.jpg" width="80%" height="80%">
+
+- **Type 2: Multiple Choice**
+
+<img src="./content/Lq2.jpg" width="80%" height="80%">
