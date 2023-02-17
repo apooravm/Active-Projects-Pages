@@ -26,10 +26,10 @@
 	* Development of Ideas
 
 
-<img src="./content/Questions1.jpg" width="50%" height="50%">
+<img src="./content/questions1.jpg" width="50%" height="50%">
 
 
-<img src="./content/Prac1.jpg" width="50%" height="50%">
+<img src="./content/prac1.jpg" width="50%" height="50%">
 
 
 ## Question Types
